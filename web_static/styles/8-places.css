@@ -49,7 +49,7 @@ article .information{
 }
 
 article .information .max_guest, article .information .number_rooms, article .information .number_bathrooms{
-    width: 30%;
+    width: 100px;
     margin-top: 5px;
     vertical-align: bottom;
     display: inline-block;
